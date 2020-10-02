@@ -1,0 +1,29 @@
+img.img-42t2 {
+    width: 200px;
+    height: 200px;
+}
+
+span.span-42t2 {
+    font-weight: bold;
+
+    color: rgb(208, 62, 86);
+}
+
+div.div-tyblue {
+    background-color: #6cf;
+}
+
+div.div-cube {
+    width: 140px;
+    height: 140px;
+}
+
+div.div-full {
+    color: white;
+}
+
+div.div-bottom {
+    font-size: 48px;
+
+    border-bottom: 1px solid rgba(0, 0, 0, 1);
+}

@@ -1,0 +1,57 @@
+div.main-banner {
+    width: 600px;
+    height: 320px;
+    margin: 0 auto;
+
+    text-align: center;
+
+    background-color: rgba(135, 206, 235, 1);
+}
+
+div.top {
+    line-height: 100px;
+
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+
+    border-radius: 20px;
+    background-color: rgba(3, 169, 244, 1);
+}
+
+div.description {
+    margin: 20px 0 20px 0;
+}
+
+div.bottom-banner {
+    display: -webkit-flex;
+    display:         flex;
+    overflow: hidden;
+
+    height: 140px;
+}
+
+div.div-small {
+    overflow: hidden;
+
+    width: 220px;
+    height: 80px;
+
+    border-radius: 20px;
+}
+
+div.left {
+    line-height: 80px;
+
+    background-color: rgba(113, 180, 235, 1);
+}
+
+div.right {
+    line-height: 80px;
+
+    background-color: rgba(113, 180, 235, 1);
+}
+
+div.middle {
+    padding: 15px;
+}
