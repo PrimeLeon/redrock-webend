@@ -177,6 +177,9 @@ button.main-search-btn {
     font-size: 18px;
     line-height: 18px;
 
+    position: relative;
+    left: -1px;
+
     float: right;
 
     width: 110px;
